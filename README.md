@@ -2,7 +2,7 @@
 
 control your computer with hand gestures — no physical keyboard or mouse required.
 
-A Python-based computer vision project that uses a webcam to detect hand movements and perform keyboard and mouse actions in real time.
+A Python-based computer vision project that uses a webcam to detect hand movements and perform keyboard and mouse actions in real time..
 
 ## Overview
 
