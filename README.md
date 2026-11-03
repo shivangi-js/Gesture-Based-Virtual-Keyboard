@@ -8,12 +8,17 @@ A Python-based computer vision project that uses a webcam to detect hand movemen
 
 The project uses MediaPipe for hand tracking and OpenCV for real-time video processing. Finger movements and pinch gestures are detected to perform keyboard and mouse operations.
 
-#What can it do?
+## Project Output
 
--Type using right-hand gestures.
--Move the cursor using your left hand.
--Perform mouse clicks with a pinch gesture.
--Track hand movements in real time.
+![Keyboard Output](keyboard_output.jpeg)
+
+Features
+- Real-time hand detection and tracking.
+- Virtual keyboard displayed through the webcam feed.
+- Keyboard input using right-hand pinch gestures.
+- Mouse cursor movement using the left hand.
+- Mouse clicks through pinch gestures.
+- Real-time visual feedback.
 
 ## Technologies Used
 
